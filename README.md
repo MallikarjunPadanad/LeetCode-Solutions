@@ -14,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0414-third-maximum-number](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
@@ -41,4 +42,8 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0704-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
