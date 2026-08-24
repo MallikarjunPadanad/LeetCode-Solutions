@@ -7,6 +7,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0670-maximum-swap](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0670-maximum-swap) |
+| [1872-stone-game-viii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
@@ -25,6 +26,7 @@
 | [0704-binary-search](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1872-stone-game-viii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1920-build-array-from-permutation](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1991-find-the-middle-index-in-array](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Prefix Sum
@@ -32,6 +34,7 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1872-stone-game-viii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1991-find-the-middle-index-in-array](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Simulation
 |  |
@@ -58,5 +61,18 @@
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1927-sum-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
