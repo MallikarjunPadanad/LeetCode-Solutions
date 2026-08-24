@@ -1,65 +1,46 @@
-import java.util.*;
-
 class Solution {
-
-    int[][][] dp;
-    String num;
-
-    int solve(int index, int tight, int mask) {
-
-        if (index == num.length()) {
-            return mask == 0 ? 0 : 1;
-        }
-
-        if (dp[index][tight][mask] != -1) {
-            return dp[index][tight][mask];
-        }
-
-        int limit = tight == 1
-                ? num.charAt(index) - '0'
-                : 9;
-
+    public int countSpecialNumbers(int n) {
+        String s = String.valueOf(n);
+        int len = s.length();
         int ans = 0;
 
-        for (int digit = 0; digit <= limit; digit++) {
-
-            int newTight =
-                    (tight == 1 && digit == limit) ? 1 : 0;
-
-            // Leading zero
-            if (mask == 0 && digit == 0) {
-                ans += solve(index + 1, newTight, 0);
-            }
-            else {
-
-                // Digit already used
-                if ((mask & (1 << digit)) != 0) {
-                    continue;
-                }
-
-                ans += solve(
-                        index + 1,
-                        newTight,
-                        mask | (1 << digit)
-                );
-            }
+        // Count numbers with fewer digits
+        for (int digits = 1; digits < len; digits++) {
+            ans += 9 * permutation(9, digits - 1);
         }
 
-        return dp[index][tight][mask] = ans;
+        // Count numbers with same number of digits
+        boolean[] used = new boolean[10];
+
+        for (int i = 0; i < len; i++) {
+            int digit = s.charAt(i) - '0';
+
+            // Try digits smaller than current digit
+            for (int d = (i == 0 ? 1 : 0); d < digit; d++) {
+                if (!used[d]) {
+                    ans += permutation(10 - i - 1, len - i - 1);
+                }
+            }
+
+            // If current digit is already used, stop
+            if (used[digit]) {
+                return ans;
+            }
+
+            used[digit] = true;
+        }
+
+        // n itself has unique digits
+        return ans + 1;
     }
 
-    public int countSpecialNumbers(int n) {
+    private int permutation(int available, int positions) {
+        int result = 1;
 
-        num = String.valueOf(n);
-
-        dp = new int[num.length()][2][1024];
-
-        for (int i = 0; i < num.length(); i++) {
-            for (int j = 0; j < 2; j++) {
-                Arrays.fill(dp[i][j], -1);
-            }
+        for (int i = 0; i < positions; i++) {
+            result *= available - i;
         }
 
-        return solve(0, 1, 0);
+        return result;
     }
 }
