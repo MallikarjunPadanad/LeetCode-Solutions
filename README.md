@@ -29,6 +29,7 @@
 | [0414-third-maximum-number](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1872-stone-game-viii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1920-build-array-from-permutation](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
@@ -58,6 +59,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
@@ -133,4 +135,8 @@
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
