@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0670-maximum-swap) |
+| [0860-lemonade-change](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [1927-sum-game](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Array
@@ -31,6 +32,7 @@
 | [0704-binary-search](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [1480-running-sum-of-1d-array](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1872-stone-game-viii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1920-build-array-from-permutation](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
