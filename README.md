@@ -13,6 +13,7 @@
 | [2376-count-special-integers](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/2376-count-special-integers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Prefix Sum
 |  |
 | ------- |
