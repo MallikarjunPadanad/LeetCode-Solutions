@@ -78,6 +78,7 @@
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -90,6 +91,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [1872-stone-game-viii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [2376-count-special-integers](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/2376-count-special-integers) |
 ## Minimax
