@@ -42,6 +42,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -115,6 +116,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
@@ -125,6 +127,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
@@ -135,6 +138,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [3483-unique-3-digit-even-numbers](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
 | ------- |
