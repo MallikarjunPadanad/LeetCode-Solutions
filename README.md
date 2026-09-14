@@ -8,6 +8,7 @@
 | [0050-powx-n](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0670-maximum-swap](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0670-maximum-swap) |
+| [0836-rectangle-overlap](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1872-stone-game-viii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2376-count-special-integers](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/2376-count-special-integers) |
@@ -171,4 +172,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
