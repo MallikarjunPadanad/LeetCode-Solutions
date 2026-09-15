@@ -1,34 +1,54 @@
 class Solution {
-    private boolean[][] isPalin;
-    private int[] memo;
-    private int n, k;
+    private int[] p;
 
     public int maxPalindromes(String s, int k) {
-        n = s.length();
-        this.k = k;
-        isPalin = new boolean[n][n];
-        memo = new int[n];
-        Arrays.fill(memo, -1);
+        int n = s.length();
+        buildManacher(s);
 
-        for (int i = 0; i < n; i++) isPalin[i][i] = true;
-        for (int i = n - 1; i >= 0; i--) {
-            for (int j = i + 1; j < n; j++) {
-                isPalin[i][j] = s.charAt(i) == s.charAt(j) && (j - i < 2 || isPalin[i + 1][j - 1]);
+        int ans = 0, start = 0;
+        for (int r = k - 1; r < n; ++r) {
+            int l = r - k + 1;
+            if (l >= start && isPalin(l, r)) {
+                ++ans;
+                start = r + 1;
+                continue;
+            }
+            l = r - k;
+            if (l >= start && isPalin(l, r)) {
+                ++ans;
+                start = r + 1;
             }
         }
-        return dfs(0, s);
+        return ans;
     }
 
-    private int dfs(int i, String s) {
-        if (i >= n) return 0;
-        if (memo[i] != -1) return memo[i];
-        int res = dfs(i + 1, s);
-        for (int j = i + k - 1; j < n; j++) {
-            if (isPalin[i][j]) {
-                res = Math.max(res, 1 + dfs(j + 1, s));
-                break;
+    private void buildManacher(String s) {
+        int n = s.length();
+        int m = 2 * n + 1;
+        char[] t = new char[m];
+        t[0] = '#';
+        for (int i = 0; i < n; i++) {
+            t[2 * i + 1] = s.charAt(i);
+            t[2 * i + 2] = '#';
+        }
+
+        p = new int[m];
+        int center = 0, right = 0;
+        for (int i = 0; i < m; i++) {
+            if (i < right) {
+                p[i] = Math.min(right - i, p[2 * center - i]);
+            }
+            while (i - p[i] - 1 >= 0 && i + p[i] + 1 < m && t[i - p[i] - 1] == t[i + p[i] + 1]) {
+                p[i]++;
+            }
+            if (i + p[i] > right) {
+                center = i;
+                right = i + p[i];
             }
         }
-        return memo[i] = res;
+    }
+
+    private boolean isPalin(int l, int r) {
+        return p[l + r + 1] >= r - l + 1;
     }
 }
