@@ -41,6 +41,7 @@
 | [0835-image-overlap](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0860-lemonade-change) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1872-stone-game-viii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1920-build-array-from-permutation](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
@@ -82,6 +83,7 @@
 | [0035-search-insert-position](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Two Pointers
@@ -111,6 +113,7 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [2376-count-special-integers](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/2376-count-special-integers) |
@@ -127,10 +130,12 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Hash Table
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
