@@ -1,26 +1,28 @@
-
 class Solution {
     public int minSumOfLengths(int[] arr, int target) {
-        int n = arr.length, sum = 0, ans = Integer.MAX_VALUE;
-        int[] dp = new int[n + 1];
-        Arrays.fill(dp, Integer.MAX_VALUE);
-        HashMap<Integer, Integer> map = new HashMap<>();
-        map.put(0, 0);
+        int n = arr.length, l = 0, sum = 0;
+        int ans = Integer.MAX_VALUE, best = Integer.MAX_VALUE;
+        int[] minLen = new int[n];
 
-        for (int i = 1; i <= n; i++) {
-            sum += arr[i - 1];
-            dp[i] = dp[i - 1];
+        for (int r = 0; r < n; r++) {
+            sum += arr[r];
 
-            if (map.containsKey(sum - target)) {
-                int j = map.get(sum - target);
-                int len = i - j;
-                if (dp[j] != Integer.MAX_VALUE)
-                    ans = Math.min(ans, dp[j] + len);
-                dp[i] = Math.min(dp[i], len);
+            while (sum > target)
+                sum -= arr[l++];
+
+            if (sum == target) {
+                int len = r - l + 1;
+
+                if (l > 0 && minLen[l - 1] != Integer.MAX_VALUE)
+                    ans = Math.min(ans, len + minLen[l - 1]);
+
+                best = Math.min(best, len);
             }
-            map.put(sum, i);
+
+            minLen[r] = best;
         }
 
         return ans == Integer.MAX_VALUE ? -1 : ans;
     }
 }
+
