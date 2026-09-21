@@ -102,6 +102,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0115-distinct-subsequences](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
