@@ -40,6 +40,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0283-move-zeroes](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
@@ -106,6 +107,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0031-next-permutation) |
+| [0283-move-zeroes](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String
