@@ -7,6 +7,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0670-maximum-swap](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [0836-rectangle-overlap](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -98,6 +99,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -255,4 +257,8 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
