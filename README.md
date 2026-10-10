@@ -174,6 +174,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [1096-brace-expansion-ii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -205,6 +206,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -279,4 +281,12 @@
 |  |
 | ------- |
 | [2092-find-all-people-with-secret](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
