@@ -92,6 +92,7 @@
 | [0414-third-maximum-number](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [1096-brace-expansion-ii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2092-find-all-people-with-secret](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Search
@@ -194,6 +195,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Recursion
 |  |
@@ -214,6 +216,7 @@
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [2092-find-all-people-with-secret](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -268,4 +271,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Depth-First Search
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
+## Graph Theory
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 <!---LeetCode Topics End-->
