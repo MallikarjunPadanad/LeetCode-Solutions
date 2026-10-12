@@ -217,6 +217,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0707-design-linked-list](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Bit Manipulation
@@ -296,6 +297,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0707-design-linked-list](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0707-design-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
