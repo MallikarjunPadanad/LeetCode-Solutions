@@ -126,6 +126,7 @@
 | [0027-remove-element](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0160-intersection-of-two-linked-lists](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -187,6 +188,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1096-brace-expansion-ii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -221,6 +223,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
