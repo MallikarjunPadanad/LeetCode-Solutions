@@ -14,6 +14,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1927-sum-game) |
+| [2235-add-two-integers](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2376-count-special-integers](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/2376-count-special-integers) |
 | [3524-find-x-value-of-array-i](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
