@@ -1,52 +1,118 @@
 class LFUCache {
-    private final int cap;
-    private int minFreq;
-    private final Map<Integer, Integer> keyVal = new HashMap<>();
-    private final Map<Integer, Integer> keyFreq = new HashMap<>();
-    private final Map<Integer, LinkedHashSet<Integer>> freqKeys = new HashMap<>();
- 
+    private int cacheMaxCapacityAllowed;
+    private int currentCacheElementCount;
+    private int minimumObservedFrequency;
+
+    private int[] storedItemValuesMap;
+    private int[] itemAccessFrequenciesMap;
+
+    private int[] dllPreviousNodeLink;
+    private int[] dllFollowingNodeLink;
+
+    private int[] frequencyDllHeadPointers;
+    private int[] frequencyDllTailPointers;
+
     public LFUCache(int capacity) {
-        this.cap = capacity;
+        this.cacheMaxCapacityAllowed = capacity;
+        this.currentCacheElementCount = 0;
+        this.minimumObservedFrequency = 0;
+
+        this.storedItemValuesMap = new int[100005];
+        this.itemAccessFrequenciesMap = new int[100005];
+        this.dllPreviousNodeLink = new int[100005];
+        this.dllFollowingNodeLink = new int[100005];
+
+        this.frequencyDllHeadPointers = new int[200005];
+        this.frequencyDllTailPointers = new int[200005];
     }
- 
-    private void touch(int key) {
-        int f = keyFreq.get(key);
-        LinkedHashSet<Integer> set = freqKeys.get(f);
-        set.remove(key);
-        if (set.isEmpty()) {
-            freqKeys.remove(f);
-            if (minFreq == f) minFreq++;
-        }
-        keyFreq.put(key, f + 1);
-        freqKeys.computeIfAbsent(f + 1, k -> new LinkedHashSet<>()).add(key);
-    }
- 
+
     public int get(int key) {
-        if (!keyVal.containsKey(key)) return -1;
-        touch(key);
-        return keyVal.get(key);
+        int indexAdjustedKey = key + 1;
+
+        if (itemAccessFrequenciesMap[indexAdjustedKey] == 0) {
+            return -1;
+        }
+
+        elevateNodeFrequencyLevel(indexAdjustedKey);
+
+        return storedItemValuesMap[indexAdjustedKey];
     }
- 
+
     public void put(int key, int value) {
-        if (cap == 0) return;
-        if (keyVal.containsKey(key)) {
-            keyVal.put(key, value);
-            touch(key);
+        int indexAdjustedKey = key + 1;
+
+        if (itemAccessFrequenciesMap[indexAdjustedKey] > 0) {
+            storedItemValuesMap[indexAdjustedKey] = value;
+            elevateNodeFrequencyLevel(indexAdjustedKey);
             return;
         }
-        if (keyVal.size() >= cap) {
-            // evict LFU key; ties broken by least recently used (first in set)
-            LinkedHashSet<Integer> set = freqKeys.get(minFreq);
-            int evict = set.iterator().next();
-            set.remove(evict);
-            if (set.isEmpty()) freqKeys.remove(minFreq);
-            keyVal.remove(evict);
-            keyFreq.remove(evict);
+
+        if (currentCacheElementCount == cacheMaxCapacityAllowed) {
+            purgeLeastFrequentlyUsedElement();
         }
-        keyVal.put(key, value);
-        keyFreq.put(key, 1);
-        freqKeys.computeIfAbsent(1, k -> new LinkedHashSet<>()).add(key);
-        minFreq = 1;
+
+        storedItemValuesMap[indexAdjustedKey] = value;
+        itemAccessFrequenciesMap[indexAdjustedKey] = 1;
+
+        attachNodeToFrequencyListHead(indexAdjustedKey, 1);
+
+        minimumObservedFrequency = 1;
+        currentCacheElementCount++;
+    }
+
+    private void elevateNodeFrequencyLevel(int targetKeyElement) {
+        int presentFrequencyLevel = itemAccessFrequenciesMap[targetKeyElement];
+
+        detachNodeFromFrequencyList(targetKeyElement, presentFrequencyLevel);
+
+        if (minimumObservedFrequency == presentFrequencyLevel && frequencyDllHeadPointers[presentFrequencyLevel] == 0) {
+            minimumObservedFrequency++;
+        }
+
+        itemAccessFrequenciesMap[targetKeyElement] = presentFrequencyLevel + 1;
+        attachNodeToFrequencyListHead(targetKeyElement, presentFrequencyLevel + 1);
+    }
+
+    private void purgeLeastFrequentlyUsedElement() {
+        int nodeDesignatedForEviction = frequencyDllTailPointers[minimumObservedFrequency];
+
+        detachNodeFromFrequencyList(nodeDesignatedForEviction, minimumObservedFrequency);
+        itemAccessFrequenciesMap[nodeDesignatedForEviction] = 0;
+
+        currentCacheElementCount--;
+    }
+
+    private void attachNodeToFrequencyListHead(int elementToAttach, int targetFrequencyTier) {
+        int currentHeadForTier = frequencyDllHeadPointers[targetFrequencyTier];
+
+        if (currentHeadForTier == 0) {
+            frequencyDllHeadPointers[targetFrequencyTier] = elementToAttach;
+            frequencyDllTailPointers[targetFrequencyTier] = elementToAttach;
+            dllPreviousNodeLink[elementToAttach] = 0;
+            dllFollowingNodeLink[elementToAttach] = 0;
+        } else {
+            dllFollowingNodeLink[elementToAttach] = currentHeadForTier;
+            dllPreviousNodeLink[currentHeadForTier] = elementToAttach;
+            dllPreviousNodeLink[elementToAttach] = 0;
+            frequencyDllHeadPointers[targetFrequencyTier] = elementToAttach;
+        }
+    }
+
+    private void detachNodeFromFrequencyList(int elementToDetach, int sourceFrequencyTier) {
+        int previousLinkNode = dllPreviousNodeLink[elementToDetach];
+        int subsequentLinkNode = dllFollowingNodeLink[elementToDetach];
+
+        if (previousLinkNode != 0) {
+            dllFollowingNodeLink[previousLinkNode] = subsequentLinkNode;
+        } else {
+            frequencyDllHeadPointers[sourceFrequencyTier] = subsequentLinkNode;
+        }
+
+        if (subsequentLinkNode != 0) {
+            dllPreviousNodeLink[subsequentLinkNode] = previousLinkNode;
+        } else {
+            frequencyDllTailPointers[sourceFrequencyTier] = previousLinkNode;
+        }
     }
 }
 
