@@ -212,6 +212,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0460-lfu-cache](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [1096-brace-expansion-ii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -262,6 +263,7 @@
 | [0234-palindrome-linked-list](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -355,11 +357,13 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0707-design-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 ## Monotonic Stack
 |  |
 | ------- |
