@@ -8,6 +8,7 @@
 | [0050-powx-n](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0670-maximum-swap](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [0836-rectangle-overlap](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -53,6 +54,7 @@
 | [0162-find-peak-element](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0704-binary-search](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0835-image-overlap) |
