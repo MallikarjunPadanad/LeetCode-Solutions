@@ -165,6 +165,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0115-distinct-subsequences](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
@@ -193,6 +194,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -261,6 +263,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
