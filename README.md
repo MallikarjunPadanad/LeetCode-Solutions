@@ -47,6 +47,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -122,6 +123,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0414-third-maximum-number](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
@@ -153,6 +155,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0031-next-permutation) |
