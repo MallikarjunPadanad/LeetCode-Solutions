@@ -70,6 +70,7 @@
 | [1267-count-servers-that-communicate](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1882-process-tasks-using-servers](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1882-process-tasks-using-servers) |
@@ -118,6 +119,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1920-build-array-from-permutation](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [3498-reverse-degree-of-a-string](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
@@ -442,6 +444,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -461,4 +464,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
