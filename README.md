@@ -59,6 +59,7 @@
 | [0066-plus-one](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [0217-contains-duplicate](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
@@ -257,6 +259,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0460-lfu-cache](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [1096-brace-expansion-ii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
