@@ -8,6 +8,7 @@
 | [0050-powx-n](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0670-maximum-swap](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0670-maximum-swap) |
@@ -173,6 +174,7 @@
 | [0141-linked-list-cycle](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -259,6 +261,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0460-lfu-cache](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [1096-brace-expansion-ii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
@@ -448,6 +451,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0202-happy-number) |
 ## Binary Indexed Tree
 |  |
 | ------- |
