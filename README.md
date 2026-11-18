@@ -75,6 +75,7 @@
 | [0835-image-overlap](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0860-lemonade-change) |
+| [1046-last-stone-weight](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1254-number-of-closed-islands](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
@@ -487,6 +488,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [1046-last-stone-weight](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
