@@ -59,6 +59,7 @@
 | [0036-valid-sudoku](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0162-find-peak-element) |
@@ -268,6 +269,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -368,6 +370,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0835-image-overlap](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/MallikarjunPadanad/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
